@@ -23,7 +23,7 @@ Putting the **entities** into separate constants might be far from a „beautifu
 And yep, there is no Grunt, Gulp, Webpack or Babel magic required to get this stuff working.
 
 ## Known Limitations
-- Pagination is broken due to a fake `totalCount` (this could be simple to solve with a Express-Middleware)
+- Pagination is broken due to a fake `totalCount` (this could be simple to solve with an Express-Middleware)
 
 ## Successfully ~~tested~~ in Production with
 
